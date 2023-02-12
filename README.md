@@ -20,10 +20,15 @@ Run Command:
 	node .
 
 Known Issues & Bugs
+
+npm install:
+    
+	discord.js-selfbot-v11
+	
+	discordrpcgenerator
+	
+	express
+
+Known Issues & Bugs
 -------------------
-
-In the index, I would like you to add yourself and I hope you gain knowledge from it.
-
-- Doesn't pin new or updated comments
-- What you should be looking at must have the module installed, without it you won't be able to use that code. on the Modlue *(top priority)*
-- Not currently automated
+discord js v11 will have a lot of problems in the code and many gardeners will use python more but if anyone knows the solution please tell me
