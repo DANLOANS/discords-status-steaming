@@ -15,4 +15,4 @@ events.forEach(file => {
 });
 
 keepAlive();
-client.login('');
+client.login('')
