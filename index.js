@@ -1,4 +1,4 @@
-const discord = require('discord.js-selfbot-v11')
+const discord = require('discord.js-selfbot-v11');
 const fs = require('fs');
 
 
